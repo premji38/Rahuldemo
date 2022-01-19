@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-19T08:21:39 IST" name="Suite" finished-at="2022-01-19T08:21:39 IST" duration-ms="148">
+    <groups>
+    </groups>
+    <test started-at="2022-01-19T08:21:39 IST" name="Test" finished-at="2022-01-19T08:21:39 IST" duration-ms="148">
+      <class name="MavenRahul.Mavenjava.APITest">
+        <test-method signature="api()[pri:0, instance:MavenRahul.Mavenjava.APITest@26275bef]" started-at="2022-01-19T08:21:39 IST" name="api" finished-at="2022-01-19T08:21:39 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api -->
+        <test-method signature="apitool()[pri:0, instance:MavenRahul.Mavenjava.APITest@26275bef]" started-at="2022-01-19T08:21:39 IST" name="apitool" finished-at="2022-01-19T08:21:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apitool -->
+      </class> <!-- MavenRahul.Mavenjava.APITest -->
+      <class name="MavenRahul.Mavenjava.SeleniumTest">
+        <test-method signature="browser()[pri:0, instance:MavenRahul.Mavenjava.SeleniumTest@79da8dc5]" started-at="2022-01-19T08:21:39 IST" name="browser" finished-at="2022-01-19T08:21:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="sele2()[pri:0, instance:MavenRahul.Mavenjava.SeleniumTest@79da8dc5]" started-at="2022-01-19T08:21:39 IST" name="sele2" finished-at="2022-01-19T08:21:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sele2 -->
+      </class> <!-- MavenRahul.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
